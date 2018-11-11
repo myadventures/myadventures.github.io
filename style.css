@@ -1,0 +1,163 @@
+body {
+	margin: 0;
+	font-family: 'Acme', sans-serif;
+	font-weight: bold;
+	background-color: pink;
+}
+
+.gap{
+	margin-top: 60px;
+	text-align: center;
+}
+
+.low-gap{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.background{
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.fas{
+	width: 100px;
+}
+
+.fa-facebook{
+	color: black;
+	font-size: 30px;
+	text-align: left;
+	margin-left: 425px;
+
+}
+
+.fa-instagram{
+	text-align: left;
+	color: black;
+	font-size: 30px;
+}
+
+.world{
+	width: 45px;
+	margin-bottom: 30px;
+	color: black;
+}
+
+
+.card{
+	font-size: 50px;
+	background-color: pink;
+	border: none;
+}
+
+.text1{
+	font-size: 20px;
+	text-align: center;
+	margin-left: 10px;
+}
+
+.text2{
+	font-size: 20px;
+	line-height: 15px;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.p1{
+	line-height: 15px;
+	margin-top: 0px;
+}
+
+.navbar{
+	background-color: pink;
+	height: 80px;
+}
+
+.logo-text{
+	font-size: 50px;
+	text-align: center;
+	margin-left: 500px;
+
+}
+
+.hongkong{
+	background-color: pink;
+}
+
+.london{
+	background-color: pink;
+}
+
+.go{
+	margin-top: 180px;
+}
+.goa{
+	background-color: pink;  
+}
+
+.hk1{
+	width: 100%;
+}
+
+.title1{
+	background-color: pink;
+	width: 100%;
+	text-align: center;	
+	padding: 15px;	
+}
+
+.hk2{
+	width: 100%;
+}
+
+.title2{
+	background-color: pink;
+	text-align: center;	
+	padding: 15px;	
+}
+
+.photo-container {
+	display: flex;
+	margin-top: 50px;
+}
+
+.photo-text {
+	padding: 0 10px;
+	flex: 1 1 100%;
+}
+
+.photo-text img {
+	height: 300px;
+}
+
+.container{
+	max-width: none;
+}
+
+.fixed-bg {
+	background-image: url(https://cdn.londonandpartners.com/visit/general-london/areas/river/76709-640x360-houses-of-parliament-and-london-eye-on-thames-from-above-640.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.transparent-bg {
+	background-image: url(https://cdn.londonandpartners.com/visit/general-london/areas/river/76709-640x360-houses-of-parliament-and-london-eye-on-thames-from-above-640.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+	height: 200px;
+	width: 100vw;
+}
+
+.end{
+	font-size: 40px;
+	text-align: center;
+}
